@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>欢迎大家来到奥拓思维</title>
+		<style>
+			.header{width:978px;height:98px;
+			border :1px solid #ccc;
+			margin:0 auto;}
+			center{width:958px;height: 620px;
+			padding: 10px;
+			border:1px solid#ccc;
+			margin:10px auto}
+			.center_left={width:348px;height: ;}
+		</style>
+	</head>
+	<body>
+		<div class="header"></divh>
+		<div class="center">
+			<div
+		</div>
+	</body>
+</html>
